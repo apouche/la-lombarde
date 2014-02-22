@@ -1,5 +1,5 @@
-title:            Site Title
-description:      Describe your website here.
+title:            La Lombarde
+description:      Beautiful house on sale in the French Riviera
 logo:             site-logo.png
 disqus_shortname: 
 search:           true
@@ -8,8 +8,8 @@ url:              http://localhost:4000
 
 # Owner/author information
 owner:
-  name:           Your Name
-  avatar:         bio-photo.jpg
+  name:           La Lombarde
+  avatar:         bio-photo.png
   email:          you@email.com
   # Social networking links used in footer. Update and remove as you like.
   twitter:        
