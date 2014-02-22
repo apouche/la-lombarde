@@ -1,8 +1,8 @@
 title:            La Lombarde
-description:      Beautiful house on sale in the French Riviera
+description:      Superbe villa à vendre dans sur la côte d'azur
 logo:             site-logo.png
 disqus_shortname: 
-search:           true
+search:           false
 # Change url to your domain. Leave localhost server or blank when working locally.
 url:              http://localhost:4000
 
@@ -10,7 +10,7 @@ url:              http://localhost:4000
 owner:
   name:           La Lombarde
   avatar:         bio-photo.png
-  email:          you@email.com
+  email:          nicole@energieduyogi.fr
   # Social networking links used in footer. Update and remove as you like.
   twitter:        
   facebook:       
@@ -32,14 +32,12 @@ bing_verify:
 # Links to include in top navigation
 # For external links add external: true
 links:
-  - title: About
-    url: /about/
-  - title: Articles
+  - title: La Villa
+    url: /
+  - title: Photos
     url: /articles/
-  - title: Theme Setup
-    url: /theme-setup/
-  - title: Made Mistakes
-    url: http://mademistakes.com
+  - title: Contact
+    url: /contact/
     external: true
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
