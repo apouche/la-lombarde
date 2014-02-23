@@ -30,14 +30,14 @@ La Lombarde contient tous les atouts d'une magnifique villa provençale:
 
 ### Idéale pour en faire une maison d'hôte
 
-Avec sa piscine, ses 4 grandes chambres aménagées, son studio séparé, sa grande superfercie, son calme et le climat de la région cette villa est idéale pour en faire une maison d'hôte.
+Avec sa piscine, ses 4 grandes chambres aménagées, son studio séparé, sa grande superficie, son calme et le climat de la région cette villa est idéale pour en faire une maison d'hôte.
 
 N'hésitez pas à venir visiter la [gallerie photos](/photos/) pour vous en faire une idée.
 
 
 ### Aux alentours
 
-À deux pas de la villa, la ville de Taradeau contient 2 supermarchés et quelques grands restaurants (dont [*Chez Bruno*](http://www.restaurantbruno.com/) un restaurant de Truffes reconnu).
+À deux pas de la villa, la ville de Taradeau avec ses 2 supermarchés et ses quelques grands restaurants (dont [*Chez Bruno*](http://www.restaurantbruno.com/) un restaurant de Truffes reconnu).
 
 La villa est également idéalement à 1h de l'aéroport de Nice et à peine plus loin se trouvent Marseille et Toulon.
 
