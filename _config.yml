@@ -1,5 +1,5 @@
 title:            La Lombarde
-description:      Superbe villa à vendre dans sur la côte d'azur
+description:      Une magnifique villa à vendre au coeur de la provence
 logo:             site-logo.png
 disqus_shortname: 
 search:           false
@@ -35,7 +35,7 @@ links:
   - title: La Villa
     url: /
   - title: Photos
-    url: /articles/
+    url: /photos/
   - title: Contact
     url: /contact/
     external: true
