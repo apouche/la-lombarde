@@ -4,12 +4,15 @@ title: La Lombarde
 subtitle: Une magnifique villa à vendre au coeur de la provence
 category: articles
 description: "A simple and clean responsive Jekyll theme for words and photos."
-tags: [villa, à Vendre, Var, Provence, Maison d'hôte]
+tags: [villa, à Vendre, Provence, Var, Taradeau, Maison d'hôte]
 price: 600 000
-surface: 21 000 m²
-bedroom: 5 chambres
-bathroom: 3 salles de bain
+surface: 
+  house: 280 m²
+  total: 21 000 m²
+bedroom: 6 chambres
+bathroom: 4 salles de bain
 pool: 1 piscine
+location: https://maps.google.fr/maps?q=taradeau+france&hl=en&ie=UTF8&hnear=Taradeau,+Var,+Provence-Alpes-C%C3%B4te+d%27Azur&gl=fr&t=m&z=12
 image:
   feature: villa/Villa-Sale-Var-French-Riviera-Main.jpg
 ---
@@ -20,8 +23,9 @@ Située au coeur de la provence, dans le département du Var, La Lombarde est un
 
 La Lombarde contient tous les atouts d'une magnifique villa provençale:
 
-+ Un spacieux et lumineux salon donnant sur une toute aussi lumineuse salle à manger. 
-+ 4 grandes chambres d'au moins 21m² chacune et dont 2 incluant une salle de bain. Toutes les chambres sont entièrement climatisées pour un confort idéal durant les chaudes journées d'été.
++ [Une propriété](/articles/la-villa/) de 280m² habitable et plus de 20 000m² de jardin
++ Un spacieux et lumineux [salon](/articles/salon-salle-a-manger-cuisine/) donnant sur une toute aussi lumineuse [salle à manger](/articles/salon-salle-a-manger-cuisine/). 
++ 4 [grandes chambres](/articles/les-chambres/) d'au moins 21m² chacune et dont 2 incluant une salle de bain. Toutes les chambres sont entièrement climatisées pour un confort idéal durant les chaudes journées d'été.
 + Enfin un grand studio de 60m² et entièrement séparé inclut une grande chambre, une salle de bain et des rangements.
 
 ### Idéale pour en faire une maison d'hôte
