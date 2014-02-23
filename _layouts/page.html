@@ -26,12 +26,19 @@
       <footer class="entry-meta">
         <img src="{{ site.url }}/images/{{ site.owner.avatar }}" alt="{{ site.owner.name }} photo" class="author-photo">
 
-        <span class="author vcard">By <span class="fn"><a href="{{ site.url }}/about/" title="About {{ site.owner.name }}">{{ site.owner.name }}</a></span></span>
+        <span class="author vcard"><span class="fn"><a href="{{ site.url }}/" title="About {{ site.owner.name }}">{{ site.owner.name }}</a></span></span>
+
+        <span><a href="mailto:{{ site.owner.email }}"<i class="icon-pencil"></i> Contact</a></span>
+
         {% if site.disqus_shortname and page.comments %}<span class="entry-comments"><i class="icon-comment-alt"></i> <a href="#disqus_thread">Comment</a></span>{% endif %}
         <span><a href="{{ site.url }}{{ page.url }}" rel="bookmark" title="{{ page.title }}: {{ page.subtitle }}"><i class="icon-link"></i> Permalink</a></span>
 
-        {% if page.surface %}
-        <span><i class="icon-home"></i> {{ page.surface }}</span>
+        {% if page.surface.house %}
+        <span><i class="icon-home"></i> {{ page.surface.house }}</span>
+        {% endif %}
+
+        {% if page.surface.total %}
+        <span><i class="icon-sun"></i> {{ page.surface.total }}</span>
         {% endif %}
 
         {% if page.bedroom %}
@@ -46,9 +53,16 @@
         <span><i class="icon-ok-sign"></i> {{ page.pool }}</span>
         {% endif %}
 
+        {% if page.location %}
+        <span><a href="{{ page.location }}" title="{{ page.title }}: {{ page.subtitle }} - Location"><i class="icon-map-marker"></i> Taradeau</a></span>
+        {% endif %}
+
         {% if page.price %}
         <span><i class="icon-eur"></i> {{ page.price }}</span>
         {% endif %}
+
+
+
 
         {% if page.share %}
         <span class="social-share-facebook">
