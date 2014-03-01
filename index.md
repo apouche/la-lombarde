@@ -3,7 +3,7 @@ layout: page
 title: La Lombarde
 subtitle: Une magnifique villa à vendre au coeur de la provence
 category: articles
-description: "A simple and clean responsive Jekyll theme for words and photos."
+description: "Une magnifique villa à vendre au coeur de la provence"
 tags: [villa, à Vendre, Provence, Var, Taradeau, Maison d'hôte]
 price: 600 000
 surface: 

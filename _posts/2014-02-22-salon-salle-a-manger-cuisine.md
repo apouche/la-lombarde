@@ -1,7 +1,6 @@
 ---
 layout: post
 title: "Salon - Salle à Manger - Cuisine"
-description: "Examples and code for displaying images in posts."
 category: articles
 tags: [la lombarde, photos, salon, salle à manger, cuisine]
 ---
