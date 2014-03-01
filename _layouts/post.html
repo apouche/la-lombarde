@@ -26,13 +26,12 @@
       <footer class="entry-meta">
         <img src="{{ site.url }}/images/{{ site.owner.avatar }}" alt="{{ site.owner.name }} photo" class="author-photo">
 
-        <span class="author vcard"><span class="fn"><a href="{{ site.url }}/" title="About {{ site.owner.name }}">{{ site.owner.name }}</a></span></span>
+        <span class="author vcard"><span class="fn"><b>{{ site.owner.name }}</b></span></span>
 
         <span><a href="mailto:{{ site.owner.email }}"<i class="icon-pencil"></i> Contact</a></span>
 
         {% if site.disqus_shortname and page.comments %}<span class="entry-comments"><i class="icon-comment-alt"></i> <a href="#disqus_thread">Comment</a></span>{% endif %}
-        <span><a href="{{ site.url }}{{ page.url }}" rel="bookmark" title="{{ page.title }}: {{ page.subtitle }}"><i class="icon-link"></i> Permalink</a></span>
-
+        
         {% if page.surface.house %}
         <span><i class="icon-home"></i> {{ page.surface.house }}</span>
         {% endif %}
