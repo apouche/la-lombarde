@@ -5,7 +5,7 @@ subtitle: Une magnifique villa à vendre au coeur de la provence
 category: articles
 description: "Une magnifique villa à vendre au coeur de la provence"
 tags: [villa, à Vendre, Provence, Var, Taradeau, Maison d'hôte]
-price: 600 000
+price: 750 000
 surface: 
   house: 280 m²
   total: 21 000 m²
